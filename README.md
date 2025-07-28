@@ -28,7 +28,7 @@ A beautiful, inspirational Flutter application that displays motivational, morni
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/bhartisahu09/Quotes
    cd quotes_app
    ```
 2. **Install dependencies:**
@@ -76,4 +76,3 @@ assets/
 - [share_plus](https://pub.dev/packages/share_plus) - Sharing quotes
 - [image_gallery_saver](https://pub.dev/packages/image_gallery_saver) - Save images to gallery
 - [permission_handler](https://pub.dev/packages/permission_handler) - Handle storage permissions
-- [cupertino_icons](https://pub.dev/packages/cupertino_icons) - iOS style icons
